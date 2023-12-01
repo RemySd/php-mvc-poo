@@ -1,0 +1,14 @@
+{
+    "name": "remysd/php-mvc-system",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Remy"
+        }
+    ],
+    "require": {}
+}
